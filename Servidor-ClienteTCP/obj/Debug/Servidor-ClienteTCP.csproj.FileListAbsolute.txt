@@ -1,0 +1,8 @@
+D:\PrograAvanzadaApps\Servidor-ClienteTCP\Servidor-ClienteTCP\bin\Debug\Servidor-ClienteTCP.exe.config
+D:\PrograAvanzadaApps\Servidor-ClienteTCP\Servidor-ClienteTCP\bin\Debug\Servidor-ClienteTCP.exe
+D:\PrograAvanzadaApps\Servidor-ClienteTCP\Servidor-ClienteTCP\bin\Debug\Servidor-ClienteTCP.pdb
+D:\PrograAvanzadaApps\Servidor-ClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.AssemblyReference.cache
+D:\PrograAvanzadaApps\Servidor-ClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.SuggestedBindingRedirects.cache
+D:\PrograAvanzadaApps\Servidor-ClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.CoreCompileInputs.cache
+D:\PrograAvanzadaApps\Servidor-ClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.exe
+D:\PrograAvanzadaApps\Servidor-ClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.pdb
