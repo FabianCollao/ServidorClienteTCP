@@ -14,16 +14,11 @@ namespace Servidor_ClienteTCP.Comunication
         //Declaramos los atributos de esta clase
         private int puerto;
         private Socket servidor;
-        private StreamReader reader;
-        private StreamWriter writer;
 
         //Creamos el set del puerto
         public ServerSocket(int puerto)
         {
             this.puerto = puerto;
-            Stream stream = new NetworkStream(this.servidor);
-            this.reader = new StreamReader(stream);
-            this.writer = new StreamWriter(stream);
         }
         public bool Iniciar()
         {
@@ -36,7 +31,7 @@ namespace Servidor_ClienteTCP.Comunication
             }
             catch (Exception ex)
             {
-
+                Console.WriteLine(ex);
                 return false;
             }
 

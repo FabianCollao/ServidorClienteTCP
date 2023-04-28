@@ -1,0 +1,16 @@
+C:\Users\fabia\source\repos\Servidor-ClienteTCP\Cliente_app\bin\Debug\Cliente_app.exe.config
+C:\Users\fabia\source\repos\Servidor-ClienteTCP\Cliente_app\bin\Debug\Cliente_app.exe
+C:\Users\fabia\source\repos\Servidor-ClienteTCP\Cliente_app\bin\Debug\Cliente_app.pdb
+C:\Users\fabia\source\repos\Servidor-ClienteTCP\Cliente_app\obj\Debug\Cliente_app.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Servidor-ClienteTCP\Cliente_app\obj\Debug\Cliente_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Servidor-ClienteTCP\Cliente_app\obj\Debug\Cliente_app.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Servidor-ClienteTCP\Cliente_app\obj\Debug\Cliente_app.exe
+C:\Users\fabia\source\repos\Servidor-ClienteTCP\Cliente_app\obj\Debug\Cliente_app.pdb
+C:\Users\fabia\source\repos\Respaldo_servercliente\Cliente_app\bin\Debug\Cliente_app.exe.config
+C:\Users\fabia\source\repos\Respaldo_servercliente\Cliente_app\bin\Debug\Cliente_app.exe
+C:\Users\fabia\source\repos\Respaldo_servercliente\Cliente_app\bin\Debug\Cliente_app.pdb
+C:\Users\fabia\source\repos\Respaldo_servercliente\Cliente_app\obj\Debug\Cliente_app.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Respaldo_servercliente\Cliente_app\obj\Debug\Cliente_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Respaldo_servercliente\Cliente_app\obj\Debug\Cliente_app.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Respaldo_servercliente\Cliente_app\obj\Debug\Cliente_app.exe
+C:\Users\fabia\source\repos\Respaldo_servercliente\Cliente_app\obj\Debug\Cliente_app.pdb
