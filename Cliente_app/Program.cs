@@ -2,7 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.IO;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -48,7 +50,17 @@ namespace Cliente_app
                     string msg_server;
                     string msg_client;
 
+                    //Instanciamos sonidos, con su ubicación
+                    string path_zumbido = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"sonido\zumbido.wav");
+                    SoundPlayer snd_zumbido = new SoundPlayer(path_zumbido);
+                    string path_encender = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"sonido\startSystem.wav");
+                    SoundPlayer snd_encender = new SoundPlayer(path_encender);
+                    string path_apagar = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"sonido\shutdown.wav");
+                    SoundPlayer snd_apagar = new SoundPlayer(path_apagar);
+
                     ImprimirColor("**Conexión exitosa**", colorSucces, true);
+                    //sonido de conexion exitosa
+                    snd_encender.Play();
                     //Ciclo de Chat mientras ninguno escriba "chao"
                     do
                     {
@@ -58,6 +70,7 @@ namespace Cliente_app
                         {
                             case "Te ha enviado un zumbido!!":
                                 ImprimirColor("EL SERVIDOR TE HA ENVIADO UN ZUMBIDO!!!",colorAlerta,true);
+                                snd_zumbido.Play();
                                 break;
                             default:        //Mensajes normales
                                 ImprimirColor("Server: ", colorServerNombre, false);
@@ -85,6 +98,9 @@ namespace Cliente_app
                         {
                             ImprimirColor("**Desconectado del servidor**",colorError,true);
                             clienteSocket.Desconectar();
+
+                            //sonido al desconectar
+                            snd_apagar.Play();
                             seguir = false;
                         }
                         else

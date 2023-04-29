@@ -30,3 +30,13 @@ C:\Users\fabia\source\repos\Respaldo_servercliente\Servidor-ClienteTCP\obj\Debug
 C:\Users\fabia\source\repos\Respaldo_servercliente\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.CoreCompileInputs.cache
 C:\Users\fabia\source\repos\Respaldo_servercliente\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.exe
 C:\Users\fabia\source\repos\Respaldo_servercliente\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.pdb
+C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\bin\Debug\Servidor-ClienteTCP.exe.config
+C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\bin\Debug\Servidor-ClienteTCP.exe
+C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\bin\Debug\Servidor-ClienteTCP.pdb
+C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.exe
+C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.pdb
+C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor_ClienteTCP.Properties.Resources.resources
+C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.GenerateResource.cache
