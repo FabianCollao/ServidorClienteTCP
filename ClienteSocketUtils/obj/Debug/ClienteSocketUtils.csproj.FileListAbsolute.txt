@@ -1,0 +1,6 @@
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\ClienteSocketUtils\bin\Debug\ClienteSocketUtils.dll
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\ClienteSocketUtils\bin\Debug\ClienteSocketUtils.pdb
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.csproj.AssemblyReference.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.csproj.CoreCompileInputs.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.dll
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.pdb

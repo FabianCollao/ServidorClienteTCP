@@ -24,3 +24,16 @@ C:\Users\fabia\source\repos\ServidorClienteTCP\Cliente_app\obj\Debug\Cliente_app
 C:\Users\fabia\source\repos\ServidorClienteTCP\Cliente_app\obj\Debug\Cliente_app.pdb
 C:\Users\fabia\source\repos\ServidorClienteTCP\Cliente_app\obj\Debug\Cliente_app.Properties.Resources.resources
 C:\Users\fabia\source\repos\ServidorClienteTCP\Cliente_app\obj\Debug\Cliente_app.csproj.GenerateResource.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\bin\Debug\Cliente_app.exe.config
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\bin\Debug\Cliente_app.exe
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\bin\Debug\Cliente_app.pdb
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\obj\Debug\Cliente_app.csproj.AssemblyReference.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\obj\Debug\Cliente_app.csproj.SuggestedBindingRedirects.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\obj\Debug\Cliente_app.Properties.Resources.resources
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\obj\Debug\Cliente_app.csproj.GenerateResource.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\obj\Debug\Cliente_app.csproj.CoreCompileInputs.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\obj\Debug\Cliente_app.exe
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\obj\Debug\Cliente_app.pdb
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\bin\Debug\ClienteSocketUtils.dll
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\bin\Debug\ClienteSocketUtils.pdb
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Cliente_app\obj\Debug\Cliente_app.csproj.CopyComplete

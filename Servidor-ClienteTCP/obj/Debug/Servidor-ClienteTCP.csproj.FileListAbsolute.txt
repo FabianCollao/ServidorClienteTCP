@@ -40,3 +40,16 @@ C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Ser
 C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.pdb
 C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor_ClienteTCP.Properties.Resources.resources
 C:\Users\fabia\source\repos\ServidorClienteTCP\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.GenerateResource.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\bin\Debug\Servidor-ClienteTCP.exe.config
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\bin\Debug\Servidor-ClienteTCP.exe
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\bin\Debug\Servidor-ClienteTCP.pdb
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\bin\Debug\ServidorSocketUtils.dll
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\bin\Debug\ServidorSocketUtils.pdb
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.AssemblyReference.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.SuggestedBindingRedirects.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\obj\Debug\Servidor_ClienteTCP.Properties.Resources.resources
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.GenerateResource.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.CoreCompileInputs.cache
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.csproj.CopyComplete
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.exe
+T:\FC\Proyectos\ServidorClienteTCP-master\ServidorClienteTCP-master\Servidor-ClienteTCP\obj\Debug\Servidor-ClienteTCP.pdb
